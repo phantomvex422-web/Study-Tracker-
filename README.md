@@ -1,4 +1,4 @@
-# study_tracker
+# Adaptive Study and Life Planner Assistant 
 
 A new Flutter project.
 
